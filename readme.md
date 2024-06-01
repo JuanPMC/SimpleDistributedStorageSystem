@@ -1,4 +1,4 @@
-# Programming Assignment 2
+# Simple Distributed Storage System 
 
 ## Overview
 
