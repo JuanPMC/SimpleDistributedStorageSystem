@@ -1,0 +1,500 @@
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:09:18 File added: shared_dir/pepenites.txt (Size: 11 bytes)
+2024/03/03 21:09:18 add 127.0.0.1:8004 shared_dir/pepenites.txt 11
+2024/03/03 21:09:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:09:42 state
+2024/03/03 21:09:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:10:25 query shared_dir/128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:10:25 md5 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 download 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:10:25 Downloaded 128.txt in 0.02 seconds.
+2024/03/03 21:10:25 query shared_dir/128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:10:25 md5 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 download 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:10:25 Downloaded 128.txt in 0.00 seconds.
+2024/03/03 21:10:25 query shared_dir/128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:10:25 md5 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 download 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:10:25 Downloaded 128.txt in 0.00 seconds.
+2024/03/03 21:10:25 query shared_dir/128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:10:25 md5 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 download 128.txt
+2024/03/03 21:10:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:10:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:10:25 Downloaded 128.txt in 0.00 seconds.
+2024/03/03 21:10:25 
+Summary series:
+2024/03/03 21:10:25 Downloaded Files: shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt
+2024/03/03 21:10:25 Total Download Time: 0.03 seconds
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:24 query shared_dir/128.txt
+2024/03/03 21:12:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 md5 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 Downloaded 128.txt in 0.99 seconds.
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.08 seconds.
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:12:25 download 128.txt
+2024/03/03 21:12:25 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 Downloaded 128.txt in 1.10 seconds.
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 : sum: 10101d8cf706165df41dc6223cf29ec4 sum_real: 10101d8cf706165df41dc6223cf29ec4
+2024/03/03 21:12:25 Downloaded 128.txt in 1.14 seconds.
+2024/03/03 21:12:25 Downloaded 128.txt in 1.14 seconds.
+2024/03/03 21:12:25 
+Summary parallel:
+2024/03/03 21:12:25 Downloaded Files: shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt, shared_dir/128.txt
+2024/03/03 21:12:25 Total Download Time: 1.14 seconds

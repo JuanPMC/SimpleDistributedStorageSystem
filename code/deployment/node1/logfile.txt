@@ -1,0 +1,153 @@
+2024/03/03 22:18:23 Decoded Configuration:
+2024/03/03 22:18:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 22:18:23 Decoded Configuration:
+2024/03/03 22:18:23 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 22:18:23 Server listening on port 8001
+2024/03/03 22:18:23 register 127.0.0.1 8001
+2024/03/03 22:18:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:23 File added: shared_dir/128.txt (Size: 128 bytes)
+2024/03/03 22:18:23 add 127.0.0.1:8001 shared_dir/128.txt 128
+2024/03/03 22:18:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:23 File added: shared_dir/2k.txt (Size: 2000 bytes)
+2024/03/03 22:18:23 add 127.0.0.1:8001 shared_dir/2k.txt 2000
+2024/03/03 22:18:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:23 File added: shared_dir/32k.txt (Size: 32000 bytes)
+2024/03/03 22:18:23 add 127.0.0.1:8001 shared_dir/32k.txt 32000
+2024/03/03 22:18:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:23 File added: shared_dir/512.txt (Size: 512 bytes)
+2024/03/03 22:18:23 add 127.0.0.1:8001 shared_dir/512.txt 512
+2024/03/03 22:18:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:23 File added: shared_dir/8k.txt (Size: 8000 bytes)
+2024/03/03 22:18:23 add 127.0.0.1:8001 shared_dir/8k.txt 8000
+2024/03/03 22:18:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:27 state
+2024/03/03 22:18:27 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:18:55 state
+2024/03/03 22:18:55 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:19:46 query shared_dir/32k.txt
+2024/03/03 22:19:46 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:19:46 query shared_dir/8k.txt
+2024/03/03 22:19:46 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:19:46 md5 32k.txt
+2024/03/03 22:19:46 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 22:19:46 md5 8k.txt
+2024/03/03 22:19:46 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 22:19:46 Client connected: 127.0.0.1:46008
+2024/03/03 22:19:46 Calculado el hash: 3232303534623066346565336162613765303534393066643039643537393964
+2024/03/03 22:19:46 Client connected: 127.0.0.1:46016
+2024/03/03 22:19:46 Bytes: 32 Client: 127.0.0.1:46008 Transfer_Time: 22.537µs 
+2024/03/03 22:19:46 Calculado el hash: 3937303833653036306261316430386635373462643135653430363232613263
+2024/03/03 22:19:46 Bytes: 32 Client: 127.0.0.1:46016 Transfer_Time: 13.169µs 
+2024/03/03 22:19:46 download 32k.txt
+2024/03/03 22:19:46 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 22:19:46 download 8k.txt
+2024/03/03 22:19:46 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 22:19:46 Client connected: 127.0.0.1:46030
+2024/03/03 22:19:46 Client connected: 127.0.0.1:46024
+2024/03/03 22:19:46 Bytes: 8000 Client: 127.0.0.1:46030 Transfer_Time: 15.486µs Filename: 8k.txt
+2024/03/03 22:19:46 Bytes: 32000 Client: 127.0.0.1:46024 Transfer_Time: 22.391µs Filename: 32k.txt
+2024/03/03 22:19:46 : sum: 97083e060ba1d08f574bd15e40622a2c sum_real: 97083e060ba1d08f574bd15e40622a2c
+2024/03/03 22:19:46 Downloaded 8k.txt in 0.10 seconds.
+2024/03/03 22:19:46 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 22:19:46 Downloaded 32k.txt in 0.10 seconds.
+2024/03/03 22:19:46 
+Summary parallel:
+2024/03/03 22:19:46 Downloaded Files: shared_dir/8k.txt, shared_dir/32k.txt
+2024/03/03 22:19:46 Total Download Time: 0.10 seconds
+2024/03/03 22:20:08 unregister 127.0.0.1:8001
+2024/03/03 22:20:08 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:18 Decoded Configuration:
+2024/03/03 22:28:18 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 22:28:18 Decoded Configuration:
+2024/03/03 22:28:18 {
+    "hostname": "127.0.0.1",
+    "port": 8001,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 22:28:18 Server listening on port 8001
+2024/03/03 22:28:18 register 127.0.0.1 8001
+2024/03/03 22:28:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:18 File added: shared_dir/32k.txt (Size: 32000 bytes)
+2024/03/03 22:28:18 add 127.0.0.1:8001 shared_dir/32k.txt 32000
+2024/03/03 22:28:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:18 File added: shared_dir/512.txt (Size: 512 bytes)
+2024/03/03 22:28:18 add 127.0.0.1:8001 shared_dir/512.txt 512
+2024/03/03 22:28:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:18 File added: shared_dir/8k.txt (Size: 8000 bytes)
+2024/03/03 22:28:18 add 127.0.0.1:8001 shared_dir/8k.txt 8000
+2024/03/03 22:28:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:18 File added: shared_dir/128.txt (Size: 128 bytes)
+2024/03/03 22:28:18 add 127.0.0.1:8001 shared_dir/128.txt 128
+2024/03/03 22:28:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:18 File added: shared_dir/2k.txt (Size: 2000 bytes)
+2024/03/03 22:28:18 add 127.0.0.1:8001 shared_dir/2k.txt 2000
+2024/03/03 22:28:18 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:28:30 state
+2024/03/03 22:28:30 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:29:09 state
+2024/03/03 22:29:09 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:29:42 query shared_dir/pepenites.txt
+2024/03/03 22:29:42 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 22:29:42 md5 pepenites.txt
+2024/03/03 22:29:42 
+ Connecting to: 127.0.0.1:8004 
+2024/03/03 22:29:42 download pepenites.txt
+2024/03/03 22:29:42 
+ Connecting to: 127.0.0.1:8004 
+2024/03/03 22:29:42 : sum: 5cd81581b44785eaaa57d0e78c0d86b7 sum_real: 5cd81581b44785eaaa57d0e78c0d86b7
+2024/03/03 22:29:42 Downloaded pepenites.txt in 0.00 seconds.
+2024/03/03 22:29:42 
+Summary series:
+2024/03/03 22:29:42 Downloaded Files: shared_dir/pepenites.txt
+2024/03/03 22:29:42 Total Download Time: 0.00 seconds
+2024/03/03 22:30:16 unregister 127.0.0.1:8001
+2024/03/03 22:30:16 
+ Connecting to: 127.0.0.1:8000 

@@ -1,0 +1,152 @@
+2024/03/03 21:09:00 Client connected: 127.0.0.1:47744
+2024/03/03 21:09:00 Node 127.0.0.1:8001 has been registered
+2024/03/03 21:09:00 Bytes: 31 Client: 127.0.0.1:47744 Transfer_Time: 24.276µs Command: register 127.0.0.1 8001
+
+2024/03/03 21:09:01 Client connected: 127.0.0.1:47752
+2024/03/03 21:09:01 Node 127.0.0.1:8001 added  shared_dir/128.txt: 128 bytes
+2024/03/03 21:09:01 Bytes: 49 Client: 127.0.0.1:47752 Transfer_Time: 20.781µs Command: add 127.0.0.1:8001 shared_dir/128.txt 128
+
+2024/03/03 21:09:01 Client connected: 127.0.0.1:47754
+2024/03/03 21:09:01 Node 127.0.0.1:8001 added  shared_dir/2k.txt: 2000 bytes
+2024/03/03 21:09:01 Bytes: 48 Client: 127.0.0.1:47754 Transfer_Time: 19.737µs Command: add 127.0.0.1:8001 shared_dir/2k.txt 2000
+
+2024/03/03 21:09:01 Client connected: 127.0.0.1:47758
+2024/03/03 21:09:01 Node 127.0.0.1:8001 added  shared_dir/32k.txt: 32000 bytes
+2024/03/03 21:09:01 Bytes: 49 Client: 127.0.0.1:47758 Transfer_Time: 17.846µs Command: add 127.0.0.1:8001 shared_dir/32k.txt 32000
+
+2024/03/03 21:09:01 Client connected: 127.0.0.1:47770
+2024/03/03 21:09:01 Node 127.0.0.1:8001 added  shared_dir/512.txt: 512 bytes
+2024/03/03 21:09:01 Bytes: 49 Client: 127.0.0.1:47770 Transfer_Time: 18.268µs Command: add 127.0.0.1:8001 shared_dir/512.txt 512
+
+2024/03/03 21:09:01 Client connected: 127.0.0.1:47778
+2024/03/03 21:09:01 Node 127.0.0.1:8001 added  shared_dir/8k.txt: 8000 bytes
+2024/03/03 21:09:01 Bytes: 48 Client: 127.0.0.1:47778 Transfer_Time: 18.503µs Command: add 127.0.0.1:8001 shared_dir/8k.txt 8000
+
+2024/03/03 21:09:05 Client connected: 127.0.0.1:47102
+2024/03/03 21:09:05 Node 127.0.0.1:8002 has been registered
+2024/03/03 21:09:05 Bytes: 31 Client: 127.0.0.1:47102 Transfer_Time: 24.421µs Command: register 127.0.0.1 8002
+
+2024/03/03 21:09:05 Client connected: 127.0.0.1:47116
+2024/03/03 21:09:05 Node 127.0.0.1:8002 added  shared_dir/512.txt: 512 bytes
+2024/03/03 21:09:05 Bytes: 49 Client: 127.0.0.1:47116 Transfer_Time: 23.756µs Command: add 127.0.0.1:8002 shared_dir/512.txt 512
+
+2024/03/03 21:09:05 Client connected: 127.0.0.1:47120
+2024/03/03 21:09:05 Node 127.0.0.1:8002 added  shared_dir/8k.txt: 8000 bytes
+2024/03/03 21:09:05 Bytes: 48 Client: 127.0.0.1:47120 Transfer_Time: 23.672µs Command: add 127.0.0.1:8002 shared_dir/8k.txt 8000
+
+2024/03/03 21:09:05 Client connected: 127.0.0.1:47128
+2024/03/03 21:09:05 Node 127.0.0.1:8002 added  shared_dir/128.txt: 128 bytes
+2024/03/03 21:09:05 Bytes: 49 Client: 127.0.0.1:47128 Transfer_Time: 19.125µs Command: add 127.0.0.1:8002 shared_dir/128.txt 128
+
+2024/03/03 21:09:05 Client connected: 127.0.0.1:47144
+2024/03/03 21:09:05 Node 127.0.0.1:8002 added  shared_dir/2k.txt: 2000 bytes
+2024/03/03 21:09:05 Bytes: 48 Client: 127.0.0.1:47144 Transfer_Time: 17.071µs Command: add 127.0.0.1:8002 shared_dir/2k.txt 2000
+
+2024/03/03 21:09:05 Client connected: 127.0.0.1:47146
+2024/03/03 21:09:05 Node 127.0.0.1:8002 added  shared_dir/32k.txt: 32000 bytes
+2024/03/03 21:09:05 Bytes: 49 Client: 127.0.0.1:47146 Transfer_Time: 14.834µs Command: add 127.0.0.1:8002 shared_dir/32k.txt 32000
+
+2024/03/03 21:09:10 Client connected: 127.0.0.1:47152
+2024/03/03 21:09:10 Bytes: 442 Client: 127.0.0.1:47152 Transfer_Time: 26.253µs Command: state
+2024/03/03 21:09:14 Client connected: 127.0.0.1:44462
+2024/03/03 21:09:15 Node 127.0.0.1:8003 has been registered
+2024/03/03 21:09:15 Bytes: 31 Client: 127.0.0.1:44462 Transfer_Time: 46.743µs Command: register 127.0.0.1 8003
+
+2024/03/03 21:09:18 Client connected: 127.0.0.1:44476
+2024/03/03 21:09:18 Node 127.0.0.1:8004 has been registered
+2024/03/03 21:09:18 Bytes: 31 Client: 127.0.0.1:44476 Transfer_Time: 21.451µs Command: register 127.0.0.1 8004
+
+2024/03/03 21:09:18 Client connected: 127.0.0.1:44480
+2024/03/03 21:09:18 Node 127.0.0.1:8004 added  shared_dir/pepenites.txt: 11 bytes
+2024/03/03 21:09:18 Bytes: 55 Client: 127.0.0.1:44480 Transfer_Time: 17.73µs Command: add 127.0.0.1:8004 shared_dir/pepenites.txt 11
+
+2024/03/03 21:09:42 Client connected: 127.0.0.1:60988
+2024/03/03 21:09:42 Bytes: 597 Client: 127.0.0.1:60988 Transfer_Time: 166.415µs Command: state
+2024/03/03 21:10:25 Client connected: 127.0.0.1:47090
+2024/03/03 21:10:25 Bytes: 30 Client: 127.0.0.1:47090 Transfer_Time: 75.283µs Command: query shared_dir/128.txt
+2024/03/03 21:10:25 Client connected: 127.0.0.1:47100
+2024/03/03 21:10:25 Bytes: 30 Client: 127.0.0.1:47100 Transfer_Time: 82.741µs Command: query shared_dir/128.txt
+2024/03/03 21:10:25 Client connected: 127.0.0.1:47112
+2024/03/03 21:10:25 Bytes: 30 Client: 127.0.0.1:47112 Transfer_Time: 20.623µs Command: query shared_dir/128.txt
+2024/03/03 21:10:25 Client connected: 127.0.0.1:47114
+2024/03/03 21:10:25 Bytes: 30 Client: 127.0.0.1:47114 Transfer_Time: 25.882µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40790
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40780
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40790 Transfer_Time: 155.26µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40772
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40780 Transfer_Time: 93.458µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40792
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40772 Transfer_Time: 121.185µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40820
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40798
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40810
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40832
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40860
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40870
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40890
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40886
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40902
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40830
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40916
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40922
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40848
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40932
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40936
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40948
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40950
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40960
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40972
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40980
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40984
+2024/03/03 21:12:24 Client connected: 127.0.0.1:40994
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41010
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41000
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41014
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41030
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40932 Transfer_Time: 63.026µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40936 Transfer_Time: 68.726µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40922 Transfer_Time: 69.129µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41030 Transfer_Time: 87.275µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40984 Transfer_Time: 59.055µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40994 Transfer_Time: 71.631µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41040
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40950 Transfer_Time: 64.935µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41054
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41040 Transfer_Time: 62.121µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41064
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41054 Transfer_Time: 71.652µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41066
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41064 Transfer_Time: 69.526µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41082
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41066 Transfer_Time: 69.084µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41082 Transfer_Time: 71.144µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41096
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41122
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41096 Transfer_Time: 65.676µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41108
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41108 Transfer_Time: 90.22µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41114
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40792 Transfer_Time: 95.31µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40820 Transfer_Time: 78.538µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40798 Transfer_Time: 67.439µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40860 Transfer_Time: 44.785µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40832 Transfer_Time: 47.669µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40870 Transfer_Time: 56.855µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40886 Transfer_Time: 44.422µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40890 Transfer_Time: 47.224µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40916 Transfer_Time: 53.565µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40810 Transfer_Time: 124.473µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41114 Transfer_Time: 89.137µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40830 Transfer_Time: 47.616µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40902 Transfer_Time: 66.117µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40948 Transfer_Time: 73.994µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40848 Transfer_Time: 76.641µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40980 Transfer_Time: 68.887µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41010 Transfer_Time: 60.16µs Command: query shared_dir/128.txt
+2024/03/03 21:12:24 Client connected: 127.0.0.1:41052
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41052 Transfer_Time: 78.534µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40960 Transfer_Time: 69.715µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:40972 Transfer_Time: 69.409µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41000 Transfer_Time: 60.431µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41014 Transfer_Time: 68.722µs Command: query shared_dir/128.txt
+2024/03/03 21:12:25 Bytes: 30 Client: 127.0.0.1:41122 Transfer_Time: 72.549µs Command: query shared_dir/128.txt

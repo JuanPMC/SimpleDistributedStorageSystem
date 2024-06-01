@@ -1,0 +1,108 @@
+2024/03/03 22:18:23 Client connected: 127.0.0.1:50480
+2024/03/03 22:18:23 Node 127.0.0.1:8001 has been registered
+2024/03/03 22:18:23 Bytes: 31 Client: 127.0.0.1:50480 Transfer_Time: 23.923µs Command: register 127.0.0.1 8001
+
+2024/03/03 22:18:23 Client connected: 127.0.0.1:50490
+2024/03/03 22:18:23 Node 127.0.0.1:8001 added  shared_dir/128.txt: 128 bytes
+2024/03/03 22:18:23 Bytes: 49 Client: 127.0.0.1:50490 Transfer_Time: 28.066µs Command: add 127.0.0.1:8001 shared_dir/128.txt 128
+
+2024/03/03 22:18:23 Client connected: 127.0.0.1:50492
+2024/03/03 22:18:23 Node 127.0.0.1:8001 added  shared_dir/2k.txt: 2000 bytes
+2024/03/03 22:18:23 Bytes: 48 Client: 127.0.0.1:50492 Transfer_Time: 38.022µs Command: add 127.0.0.1:8001 shared_dir/2k.txt 2000
+
+2024/03/03 22:18:23 Client connected: 127.0.0.1:50506
+2024/03/03 22:18:23 Node 127.0.0.1:8001 added  shared_dir/32k.txt: 32000 bytes
+2024/03/03 22:18:23 Bytes: 49 Client: 127.0.0.1:50506 Transfer_Time: 17.227µs Command: add 127.0.0.1:8001 shared_dir/32k.txt 32000
+
+2024/03/03 22:18:23 Client connected: 127.0.0.1:50512
+2024/03/03 22:18:23 Node 127.0.0.1:8001 added  shared_dir/512.txt: 512 bytes
+2024/03/03 22:18:23 Bytes: 49 Client: 127.0.0.1:50512 Transfer_Time: 17.488µs Command: add 127.0.0.1:8001 shared_dir/512.txt 512
+
+2024/03/03 22:18:23 Client connected: 127.0.0.1:50522
+2024/03/03 22:18:23 Node 127.0.0.1:8001 added  shared_dir/8k.txt: 8000 bytes
+2024/03/03 22:18:23 Bytes: 48 Client: 127.0.0.1:50522 Transfer_Time: 15.424µs Command: add 127.0.0.1:8001 shared_dir/8k.txt 8000
+
+2024/03/03 22:18:27 Client connected: 127.0.0.1:50530
+2024/03/03 22:18:27 Bytes: 221 Client: 127.0.0.1:50530 Transfer_Time: 26.437µs Command: state
+2024/03/03 22:18:51 Client connected: 127.0.0.1:58858
+2024/03/03 22:18:51 Node 127.0.0.1:8002 has been registered
+2024/03/03 22:18:51 Bytes: 31 Client: 127.0.0.1:58858 Transfer_Time: 46.591µs Command: register 127.0.0.1 8002
+
+2024/03/03 22:18:51 Client connected: 127.0.0.1:58862
+2024/03/03 22:18:51 Node 127.0.0.1:8002 added  shared_dir/128.txt: 128 bytes
+2024/03/03 22:18:51 Bytes: 49 Client: 127.0.0.1:58862 Transfer_Time: 23.35µs Command: add 127.0.0.1:8002 shared_dir/128.txt 128
+
+2024/03/03 22:18:51 Client connected: 127.0.0.1:58872
+2024/03/03 22:18:51 Node 127.0.0.1:8002 added  shared_dir/2k.txt: 2000 bytes
+2024/03/03 22:18:51 Bytes: 48 Client: 127.0.0.1:58872 Transfer_Time: 19.255µs Command: add 127.0.0.1:8002 shared_dir/2k.txt 2000
+
+2024/03/03 22:18:51 Client connected: 127.0.0.1:58880
+2024/03/03 22:18:51 Node 127.0.0.1:8002 added  shared_dir/32k.txt: 32000 bytes
+2024/03/03 22:18:51 Bytes: 49 Client: 127.0.0.1:58880 Transfer_Time: 23.239µs Command: add 127.0.0.1:8002 shared_dir/32k.txt 32000
+
+2024/03/03 22:18:51 Client connected: 127.0.0.1:58884
+2024/03/03 22:18:51 Node 127.0.0.1:8002 added  shared_dir/512.txt: 512 bytes
+2024/03/03 22:18:51 Bytes: 49 Client: 127.0.0.1:58884 Transfer_Time: 18.856µs Command: add 127.0.0.1:8002 shared_dir/512.txt 512
+
+2024/03/03 22:18:51 Client connected: 127.0.0.1:58886
+2024/03/03 22:18:51 Node 127.0.0.1:8002 added  shared_dir/8k.txt: 8000 bytes
+2024/03/03 22:18:51 Bytes: 48 Client: 127.0.0.1:58886 Transfer_Time: 23.775µs Command: add 127.0.0.1:8002 shared_dir/8k.txt 8000
+
+2024/03/03 22:18:55 Client connected: 127.0.0.1:58870
+2024/03/03 22:18:55 Bytes: 442 Client: 127.0.0.1:58870 Transfer_Time: 24.627µs Command: state
+2024/03/03 22:19:46 Client connected: 127.0.0.1:42836
+2024/03/03 22:19:46 Bytes: 30 Client: 127.0.0.1:42836 Transfer_Time: 68.643µs Command: query shared_dir/32k.txt
+2024/03/03 22:19:46 Client connected: 127.0.0.1:42846
+2024/03/03 22:19:46 Bytes: 30 Client: 127.0.0.1:42846 Transfer_Time: 26.864µs Command: query shared_dir/8k.txt
+2024/03/03 22:20:08 Client connected: 127.0.0.1:47620
+2024/03/03 22:20:08 Node 127.0.0.1:8001 has been unregistered
+2024/03/03 22:20:08 Bytes: 33 Client: 127.0.0.1:47620 Transfer_Time: 22.621µs Command: unregister 127.0.0.1:8001
+
+2024/03/03 22:20:31 Client connected: 127.0.0.1:36166
+2024/03/03 22:20:31 Node 127.0.0.1:8002 has been unregistered
+2024/03/03 22:20:31 Bytes: 33 Client: 127.0.0.1:36166 Transfer_Time: 29.863µs Command: unregister 127.0.0.1:8002
+
+2024/03/03 22:28:18 Client connected: 127.0.0.1:60162
+2024/03/03 22:28:18 Node 127.0.0.1:8001 has been registered
+2024/03/03 22:28:18 Bytes: 31 Client: 127.0.0.1:60162 Transfer_Time: 33.197µs Command: register 127.0.0.1 8001
+
+2024/03/03 22:28:18 Client connected: 127.0.0.1:60168
+2024/03/03 22:28:18 Node 127.0.0.1:8001 added  shared_dir/32k.txt: 32000 bytes
+2024/03/03 22:28:18 Bytes: 49 Client: 127.0.0.1:60168 Transfer_Time: 30.95µs Command: add 127.0.0.1:8001 shared_dir/32k.txt 32000
+
+2024/03/03 22:28:18 Client connected: 127.0.0.1:60180
+2024/03/03 22:28:18 Node 127.0.0.1:8001 added  shared_dir/512.txt: 512 bytes
+2024/03/03 22:28:18 Bytes: 49 Client: 127.0.0.1:60180 Transfer_Time: 24.463µs Command: add 127.0.0.1:8001 shared_dir/512.txt 512
+
+2024/03/03 22:28:18 Client connected: 127.0.0.1:60194
+2024/03/03 22:28:18 Node 127.0.0.1:8001 added  shared_dir/8k.txt: 8000 bytes
+2024/03/03 22:28:18 Bytes: 48 Client: 127.0.0.1:60194 Transfer_Time: 16.824µs Command: add 127.0.0.1:8001 shared_dir/8k.txt 8000
+
+2024/03/03 22:28:18 Client connected: 127.0.0.1:60204
+2024/03/03 22:28:18 Node 127.0.0.1:8001 added  shared_dir/128.txt: 128 bytes
+2024/03/03 22:28:18 Bytes: 49 Client: 127.0.0.1:60204 Transfer_Time: 16.764µs Command: add 127.0.0.1:8001 shared_dir/128.txt 128
+
+2024/03/03 22:28:18 Client connected: 127.0.0.1:60206
+2024/03/03 22:28:18 Node 127.0.0.1:8001 added  shared_dir/2k.txt: 2000 bytes
+2024/03/03 22:28:18 Bytes: 48 Client: 127.0.0.1:60206 Transfer_Time: 13.679µs Command: add 127.0.0.1:8001 shared_dir/2k.txt 2000
+
+2024/03/03 22:28:30 Client connected: 127.0.0.1:58670
+2024/03/03 22:28:30 Bytes: 221 Client: 127.0.0.1:58670 Transfer_Time: 96.351µs Command: state
+2024/03/03 22:28:51 Client connected: 127.0.0.1:48824
+2024/03/03 22:28:51 Node 127.0.0.1:8004 has been registered
+2024/03/03 22:28:51 Bytes: 31 Client: 127.0.0.1:48824 Transfer_Time: 22.319µs Command: register 127.0.0.1 8004
+
+2024/03/03 22:28:51 Client connected: 127.0.0.1:48828
+2024/03/03 22:28:51 Node 127.0.0.1:8004 added  shared_dir/pepenites.txt: 11 bytes
+2024/03/03 22:28:51 Bytes: 55 Client: 127.0.0.1:48828 Transfer_Time: 28.157µs Command: add 127.0.0.1:8004 shared_dir/pepenites.txt 11
+
+2024/03/03 22:28:56 Client connected: 127.0.0.1:60140
+2024/03/03 22:28:56 Bytes: 317 Client: 127.0.0.1:60140 Transfer_Time: 24.8µs Command: state
+2024/03/03 22:29:09 Client connected: 127.0.0.1:35850
+2024/03/03 22:29:09 Bytes: 317 Client: 127.0.0.1:35850 Transfer_Time: 70.281µs Command: state
+2024/03/03 22:29:42 Client connected: 127.0.0.1:43444
+2024/03/03 22:29:42 Bytes: 15 Client: 127.0.0.1:43444 Transfer_Time: 68.757µs Command: query shared_dir/pepenites.txt
+2024/03/03 22:30:16 Client connected: 127.0.0.1:32770
+2024/03/03 22:30:16 Node 127.0.0.1:8001 has been unregistered
+2024/03/03 22:30:16 Bytes: 33 Client: 127.0.0.1:32770 Transfer_Time: 26.229µs Command: unregister 127.0.0.1:8001
+

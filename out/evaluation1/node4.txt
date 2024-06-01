@@ -1,0 +1,115 @@
+2024/03/03 17:35:47 Decoded Configuration:
+2024/03/03 17:35:47 {
+    "hostname": "127.0.0.1",
+    "port": 8004,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 17:35:47 Decoded Configuration:
+2024/03/03 17:35:47 {
+    "hostname": "127.0.0.1",
+    "port": 8004,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 17:35:47 Server listening on port 8004
+2024/03/03 17:35:47 register 127.0.0.1 8004
+2024/03/03 17:35:47 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:35:50 state
+2024/03/03 17:35:50 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:36:12 unregister 127.0.0.1:8004
+2024/03/03 17:36:13 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:36:23 Decoded Configuration:
+2024/03/03 17:36:23 {
+    "hostname": "127.0.0.1",
+    "port": 8004,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 17:36:23 Decoded Configuration:
+2024/03/03 17:36:23 {
+    "hostname": "127.0.0.1",
+    "port": 8004,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 17:36:23 Server listening on port 8004
+2024/03/03 17:36:23 register 127.0.0.1 8004
+2024/03/03 17:36:23 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:36:36 state
+2024/03/03 17:36:36 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:36:58 File added: shared_dir/pepenites.txt (Size: 0 bytes)
+2024/03/03 17:36:58 add 127.0.0.1:8004 shared_dir/pepenites.txt 0
+2024/03/03 17:36:58 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:37:05 state
+2024/03/03 17:37:05 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 17:38:10 unregister 127.0.0.1:8004
+2024/03/03 17:38:10 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 20:42:48 Decoded Configuration:
+2024/03/03 20:42:48 {
+    "hostname": "127.0.0.1",
+    "port": 8004,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 20:42:48 Decoded Configuration:
+2024/03/03 20:42:48 {
+    "hostname": "127.0.0.1",
+    "port": 8004,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 20:42:48 Server listening on port 8004
+2024/03/03 20:42:48 register 127.0.0.1 8004
+2024/03/03 20:42:48 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 20:42:48 File added: shared_dir/pepenites.txt (Size: 11 bytes)
+2024/03/03 20:42:48 add 127.0.0.1:8004 shared_dir/pepenites.txt 11
+2024/03/03 20:42:48 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 20:42:50 state
+2024/03/03 20:42:50 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 20:43:09 query shared_dir/pepenites.txt
+2024/03/03 20:43:09 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 20:43:09 md5 pepenites.txt
+2024/03/03 20:43:09 
+ Connecting to: 127.0.0.1:8004 
+2024/03/03 20:43:09 Client connected: 127.0.0.1:41568
+2024/03/03 20:43:09 Calculado el hash: 3563643831353831623434373835656161613537643065373863306438366237
+2024/03/03 20:43:09 Bytes: 32 Client: 127.0.0.1:41568 Transfer_Time: 128.19µs 
+2024/03/03 20:43:09 download pepenites.txt
+2024/03/03 20:43:09 
+ Connecting to: 127.0.0.1:8004 
+2024/03/03 20:43:09 Client connected: 127.0.0.1:41580
+2024/03/03 20:43:09 Bytes: 11 Client: 127.0.0.1:41580 Transfer_Time: 75.149µs Filename: pepenites.txt
+2024/03/03 20:43:09 : sum: 5cd81581b44785eaaa57d0e78c0d86b7 sum_real: 5cd81581b44785eaaa57d0e78c0d86b7
+2024/03/03 20:43:09 Downloaded pepenites.txt in 0.15 seconds.
+2024/03/03 20:43:09 
+Summary series:
+2024/03/03 20:43:09 Downloaded Files: shared_dir/pepenites.txt
+2024/03/03 20:43:09 Total Download Time: 0.15 seconds
+2024/03/03 20:43:29 unregister 127.0.0.1:8004
+2024/03/03 20:43:29 
+ Connecting to: 127.0.0.1:8000 

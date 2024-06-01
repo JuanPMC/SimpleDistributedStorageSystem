@@ -1,0 +1,125 @@
+2024/03/03 21:09:14 Decoded Configuration:
+2024/03/03 21:09:14 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:09:14 Decoded Configuration:
+2024/03/03 21:09:14 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:09:14 Server listening on port 8003
+2024/03/03 21:09:14 register 127.0.0.1 8003
+2024/03/03 21:09:14 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:18:17 unregister 127.0.0.1:8003
+2024/03/03 21:18:17 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:18:44 Decoded Configuration:
+2024/03/03 21:18:44 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:18:44 Decoded Configuration:
+2024/03/03 21:18:44 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:18:44 Server listening on port 8003
+2024/03/03 21:18:44 register 127.0.0.1 8003
+2024/03/03 21:18:44 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:20:07 unregister 127.0.0.1:8003
+2024/03/03 21:20:07 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:21:11 Decoded Configuration:
+2024/03/03 21:21:11 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:21:11 Decoded Configuration:
+2024/03/03 21:21:11 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:21:11 Server listening on port 8003
+2024/03/03 21:21:11 register 127.0.0.1 8003
+2024/03/03 21:21:11 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:26:08 unregister 127.0.0.1:8003
+2024/03/03 21:26:08 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:26:24 Decoded Configuration:
+2024/03/03 21:26:24 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:26:24 Decoded Configuration:
+2024/03/03 21:26:24 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:26:24 Server listening on port 8003
+2024/03/03 21:26:24 register 127.0.0.1 8003
+2024/03/03 21:26:24 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:29:38 unregister 127.0.0.1:8003
+2024/03/03 21:29:38 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:29:59 Decoded Configuration:
+2024/03/03 21:29:59 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:29:59 Decoded Configuration:
+2024/03/03 21:29:59 {
+    "hostname": "127.0.0.1",
+    "port": 8003,
+    "watchpath": "./shared_dir",
+    "indexing_server": "127.0.0.1",
+    "indexing_port": 8000,
+    "download_dir": "./"
+}
+2024/03/03 21:29:59 Server listening on port 8003
+2024/03/03 21:29:59 register 127.0.0.1 8003
+2024/03/03 21:29:59 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:34:53 unregister 127.0.0.1:8003
+2024/03/03 21:34:53 
+ Connecting to: 127.0.0.1:8000 

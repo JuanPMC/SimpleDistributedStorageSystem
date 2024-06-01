@@ -1,0 +1,17 @@
+2024/03/03 17:36:13 Client connected: 127.0.0.1:44790
+2024/03/03 17:36:23 Client connected: 127.0.0.1:36622
+2024/03/03 17:36:23 Node 127.0.0.1:8004 has been registered
+2024/03/03 17:36:23 Bytes: 31 Client: 127.0.0.1:36622 Transfer_Time: 22.104µs Command: register 127.0.0.1 8004
+
+2024/03/03 17:36:36 Client connected: 127.0.0.1:57092
+2024/03/03 17:36:37 Bytes: 59 Client: 127.0.0.1:57092 Transfer_Time: 128.701µs Command: state
+2024/03/03 17:36:58 Client connected: 127.0.0.1:38174
+2024/03/03 17:36:58 Node 127.0.0.1:8004 added  shared_dir/pepenites.txt: 0 bytes
+2024/03/03 17:36:58 Bytes: 55 Client: 127.0.0.1:38174 Transfer_Time: 153.818µs Command: add 127.0.0.1:8004 shared_dir/pepenites.txt 0
+
+2024/03/03 17:37:05 Client connected: 127.0.0.1:38188
+2024/03/03 17:37:05 Bytes: 95 Client: 127.0.0.1:38188 Transfer_Time: 29.703µs Command: state
+2024/03/03 17:38:10 Client connected: 127.0.0.1:48334
+2024/03/03 17:38:10 Node 127.0.0.1:8004 has been unregistered
+2024/03/03 17:38:10 Bytes: 33 Client: 127.0.0.1:48334 Transfer_Time: 114.434µs Command: unregister 127.0.0.1:8004
+

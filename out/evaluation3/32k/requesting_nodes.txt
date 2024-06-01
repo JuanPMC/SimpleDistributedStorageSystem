@@ -1,0 +1,455 @@
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:30:01 File added: shared_dir/pepenites.txt (Size: 11 bytes)
+2024/03/03 21:30:01 add 127.0.0.1:8004 shared_dir/pepenites.txt 11
+2024/03/03 21:30:01 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:30:04 state
+2024/03/03 21:30:04 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 query shared_dir/32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.01 seconds.
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8000 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.01 seconds.
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 md5 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8001 
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 download 32k.txt
+2024/03/03 21:31:00 
+ Connecting to: 127.0.0.1:8002 
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 : sum: 22054b0f4ee3aba7e05490fd09d5799d sum_real: 22054b0f4ee3aba7e05490fd09d5799d
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.04 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 Downloaded 32k.txt in 0.05 seconds.
+2024/03/03 21:31:00 
+Summary parallel:
+2024/03/03 21:31:00 Downloaded Files: shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt, shared_dir/32k.txt
+2024/03/03 21:31:00 Total Download Time: 0.05 seconds
+2024/03/03 21:34:48 unregister 127.0.0.1:8004
+2024/03/03 21:34:48 
+ Connecting to: 127.0.0.1:8000 
